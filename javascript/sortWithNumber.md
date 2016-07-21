@@ -2,8 +2,8 @@
 
 ```javascript
 var arr = [9 , 10, 14, 12]
-arr.sort();  // [9, 14, 12, 10]
-        // expect [14, 12, 10, 9]
+arr.sort();  // [ 10, 12, 14, 9 ]
+        // expect [ 9, 10, 12, 14 ]
 ```
 
 ## solution
