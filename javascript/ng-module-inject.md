@@ -1,0 +1,1 @@
+1. inject something to a module when register the module!
